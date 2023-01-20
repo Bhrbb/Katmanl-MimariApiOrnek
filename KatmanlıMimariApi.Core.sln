@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatmanlıMimariApi.Core", "KatmanlıMimariApi.Core\KatmanlıMimariApi.Core.csproj", "{45BF912D-0914-4452-ABF8-B51C27267691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatmanliMimariApi.Repository", "KatmanliMimariApi.Repository\KatmanliMimariApi.Repository.csproj", "{F75EFFC4-360B-4991-814B-0E88AF8640F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatmanliMimariApi.Services", "KatmanliMimariApi.Services\KatmanliMimariApi.Services.csproj", "{F50A9846-4F09-4616-A5E3-8A837EACD9C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatmanliMimariApi.Api", "KatmanliMimariApi.Api\KatmanliMimariApi.Api.csproj", "{007328F9-5288-4F9D-ABA3-53052C26BAA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatmanliMimari.Web", "KatmanliMimari.Web\KatmanliMimari.Web.csproj", "{705B49C6-8544-451A-A091-F208A5E63E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatmanliMimari.Caching", "KatmanliMimari.Caching\KatmanliMimari.Caching.csproj", "{E1BEC7AF-F88E-4CE0-A8DE-4196C37C1DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45BF912D-0914-4452-ABF8-B51C27267691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BF912D-0914-4452-ABF8-B51C27267691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BF912D-0914-4452-ABF8-B51C27267691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BF912D-0914-4452-ABF8-B51C27267691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75EFFC4-360B-4991-814B-0E88AF8640F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75EFFC4-360B-4991-814B-0E88AF8640F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75EFFC4-360B-4991-814B-0E88AF8640F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75EFFC4-360B-4991-814B-0E88AF8640F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50A9846-4F09-4616-A5E3-8A837EACD9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50A9846-4F09-4616-A5E3-8A837EACD9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50A9846-4F09-4616-A5E3-8A837EACD9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50A9846-4F09-4616-A5E3-8A837EACD9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{007328F9-5288-4F9D-ABA3-53052C26BAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007328F9-5288-4F9D-ABA3-53052C26BAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007328F9-5288-4F9D-ABA3-53052C26BAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007328F9-5288-4F9D-ABA3-53052C26BAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705B49C6-8544-451A-A091-F208A5E63E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705B49C6-8544-451A-A091-F208A5E63E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705B49C6-8544-451A-A091-F208A5E63E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705B49C6-8544-451A-A091-F208A5E63E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1BEC7AF-F88E-4CE0-A8DE-4196C37C1DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BEC7AF-F88E-4CE0-A8DE-4196C37C1DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BEC7AF-F88E-4CE0-A8DE-4196C37C1DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BEC7AF-F88E-4CE0-A8DE-4196C37C1DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F83DCE79-3C22-41D4-B934-32A703B9B3FF}
+	EndGlobalSection
+EndGlobal
